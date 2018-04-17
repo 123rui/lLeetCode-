@@ -1,7 +1,7 @@
 """
 leetcode  200  岛屿的数量
 01  dfs  172ms
-02  bfs  164
+02  bfs  164ms
 """
 
 def numIslands( grid):
